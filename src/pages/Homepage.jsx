@@ -9,7 +9,7 @@ export default function Homepage() {
 
       <section>
         <h1>
-          Anywhere you embark on venture
+          Anywhere you embark on journey
           <br />
           iTravel keeps track of your adventures.
         </h1>
