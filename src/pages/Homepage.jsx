@@ -9,14 +9,15 @@ export default function Homepage() {
 
       <section>
         <h1>
-          You travel the world.
+          Anywhere you embark on venture
           <br />
-          WorldWise keeps track of your adventures.
+          iTravel keeps track of your adventures.
         </h1>
         <h2>
-          A world map that tracks your footsteps into every city you can think
-          of. Never forget your wonderful experiences, and show your friends how
-          you have wandered the world.
+          A world map that records your travels to various cities, ensuring you
+          never lose memories of your amazing journeys and allowing you to share
+          your adventures with friends, showcasing your exploration of the
+          world.
         </h2>
         <Link to="/login" className="cta">
           Start tracking now
